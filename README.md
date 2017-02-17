@@ -30,6 +30,7 @@ We were asked to create a testing framework in Javascript from scratch. Once the
 * HTML
 * CSS
 * [Waffle] (https://waffle.io/thesedatedprince/news-app)
+* [Original Repo] (https://github.com/thesedatedprince/news-app)
 
 ## <a name="Stories">User Stories</a>
 ```
