@@ -62,7 +62,7 @@ To make my news reading more fun
 To use the news app and install node http server, follow these instructions:
 
 ```
-$ git clone https://github.com/thesedatedprince/news-app
+$ git clone https://github.com/adrianeyre/news-app
 $ cd news-app
 $ npm install http-server -g
 $ http-server
@@ -70,7 +70,7 @@ $ open -a safari localhost:8080
 ```
 
 ### News app screenshot
-[![ScreenShot1](https://raw.githubusercontent.com/thesedatedprince/news-app/master/images/screenshot1.png)](https://raw.githubusercontent.com/thesedatedprince/news-app/master/images/screenshot1.png "Screen Shot 1")
+[![ScreenShot1](https://raw.githubusercontent.com/adrianeyre/news-app/master/images/screenshot1.png)](https://raw.githubusercontent.com/adrianeyre/news-app/master/images/screenshot1.png "Screen Shot 1")
 
 ## <a name="Framework">Testing Framework</a>
 the repo includes a bespoke testing framework written from scratch.
@@ -78,7 +78,7 @@ the repo includes a bespoke testing framework written from scratch.
 ### Installation
 To install to any project
 ```
-$ git clone https://github.com/thesedatedprince/news-app
+$ git clone https://github.com/adrianeyre/news-app
 $ cd news-app
 $ http-server
 $ open -a safari localhost:8080/test.html
@@ -143,6 +143,6 @@ This will now return ":(" on fail.
 
 ### Test framework output
 
-[![ScreenShot2](https://raw.githubusercontent.com/thesedatedprince/news-app/master/images/screenshot2.png)](https://raw.githubusercontent.com/thesedatedprince/news-app/master/images/screenshot2.png "Screen Shot 2")
+[![ScreenShot2](https://raw.githubusercontent.com/adrianeyre/news-app/master/images/screenshot2.png)](https://raw.githubusercontent.com/adrianeyre/news-app/master/images/screenshot2.png "Screen Shot 2")
 
 
