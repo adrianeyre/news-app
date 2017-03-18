@@ -1,5 +1,5 @@
 # Further Javascript - News App
-### [Makers Academy] (http://www.makersacademy.com) - Week 7 Group Project
+### [Makers Academy](http://www.makersacademy.com) - Week 7 Group Project
 
 ## Team Members
 * [Matt Perry](https://github.com/thesedatedprince)
@@ -10,11 +10,11 @@
 * [Joe Marriott](https://github.com/j-marriott)
 
 ## Index
-* [Task] (#Task)
-* [Technologies] (#Technologies)
-* [Installation] (#Install)
-* [User Stories] (#Stories)
-* [Test Framework] (#Framework)
+* [Task](#Task)
+* [Technologies](#Technologies)
+* [Installation](#Install)
+* [User Stories](#Stories)
+* [Test Framework](#Framework)
 
 ## <a name="Task">Task</a>
 Single Page Notes App
@@ -29,8 +29,8 @@ We were asked to create a testing framework in Javascript from scratch. Once the
 * Node http-server
 * HTML
 * CSS
-* [Waffle] (https://waffle.io/thesedatedprince/news-app)
-* [Original Repo] (https://github.com/thesedatedprince/news-app)
+* [Waffle](https://waffle.io/thesedatedprince/news-app)
+* [Original Repo](https://github.com/thesedatedprince/news-app)
 
 ## <a name="Stories">User Stories</a>
 ```
@@ -145,5 +145,3 @@ This will now return ":(" on fail.
 ### Test framework output
 
 [![ScreenShot2](https://raw.githubusercontent.com/adrianeyre/news-app/master/images/screenshot2.png)](https://raw.githubusercontent.com/adrianeyre/news-app/master/images/screenshot2.png "Screen Shot 2")
-
-
